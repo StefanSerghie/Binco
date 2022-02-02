@@ -1,0 +1,51 @@
+/*BUTTONS*/
+.orange_button{
+    background: #ffb31a;
+    border-radius: 5px;
+    width: 234px;
+    height: 50px;
+    font-family: "Segoe UI", serif;
+    font-weight: 640;
+    letter-spacing: 0;
+    color: #210837;
+    border-color: #210837;
+    font-size: 22px;
+    text-transform: uppercase;
+    line-height: 27px;
+    opacity: 1;
+    alignment: center;
+}
+
+/*TEXTS*/
+.corner_text{
+    color: #210837;
+    position: absolute;
+    top: 93%;
+    left: 2%;
+    text-align: center;
+    font-family: "Segoe UI", sans-serif;
+    letter-spacing: 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.text{
+    color: #210837;
+    font-family: "Segoe UI", sans-serif;
+    letter-spacing: 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.title_text{
+    color: #210837;
+    position: absolute;
+    top: 14%;
+    left:41.4%;
+    text-align: center;
+    font-family: "Segoe UI", sans-serif;
+    letter-spacing: 0;
+    font-size: 45px;
+    font-weight: 700;
+}
+

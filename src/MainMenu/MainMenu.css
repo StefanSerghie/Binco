@@ -1,0 +1,38 @@
+/*BUTTONS POSITION*/
+.about_button{
+    position: absolute;
+    top: 45%;
+    left:22.5%;
+}
+
+.my_profile_button{
+    position: absolute;
+    top: 45%;
+    left:42.5%;
+}
+
+.employees_button{
+    position: absolute;
+    top: 45%;
+    left:62.5%;
+}
+
+.production_button{
+    position: absolute;
+    top: 65%;
+    left:22.5%;
+}
+
+.stations_button{
+    position: absolute;
+    top: 65%;
+    left:42.5%;
+}
+
+.to_do_button{
+    position: absolute;
+    top: 65%;
+    left:62.5%;
+}
+
+/*TEXT POSITION*/
